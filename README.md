@@ -2,6 +2,7 @@
 ------------------
 
 Please star the repo so I can update the sweeper
+Here's my discord: PICwarior381#6597 or telegram: https://t.me/MrPker9
 
 How to setup
 --------------------
@@ -18,7 +19,7 @@ How to setup
 
 Additional information
 -----------------------------
-
+* Make sure that you ONLY HAVE 1 OWNER IN THE WALLET !!
 * Make sure that you activated the multisig on the wallet that owns the scam wallet by paying the fee which is 100 TRX.
 
 Features
