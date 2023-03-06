@@ -3,7 +3,7 @@
 
 Please star the repo so I can update the sweeper
 
-Here's my discord: PICwarior381#6597 or telegram: https://t.me/MrPker9
+Here's my discord: PICwarior381#2018 or telegram: https://t.me/MrPker9
 
 How to setup
 --------------------
